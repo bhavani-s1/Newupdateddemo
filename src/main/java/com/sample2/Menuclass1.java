@@ -66,6 +66,10 @@ public class Menuclass1 {
 	    }
         
 		}while(contop !=2);
+ if(contop==2) {
+    	   
+    	   System.out.println("you have entered option for not to continue");
+       }
 
 	    sc.close();
 		
